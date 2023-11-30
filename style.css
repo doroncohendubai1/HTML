@@ -1,0 +1,13 @@
+img { 
+width:180;
+border:2px;
+} 
+
+body {
+	background-image:url(" https://images.pexels.com/photos/823696/pexels-photo-823696.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+	background-size:cover ;background-attachment:fixed;
+	font-family:arial
+	
+
+ } 
+ 
